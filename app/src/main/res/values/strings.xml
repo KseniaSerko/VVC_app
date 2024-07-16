@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VVC_app</string>
+    <string name="vvc_app">VVC app</string>
+    <string name="video_voice_calling_app">Video Voice calling app</string>
+    <string name="join_conference">Join Conference</string>
+
+</resources>
