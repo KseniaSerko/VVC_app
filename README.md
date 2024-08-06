@@ -2,7 +2,7 @@
 This application introduces a simpler version of zoom, google meet. 
 The application consists of two screens: a main screen with a button to go to the conference and a second screen with a conference.
 On the conference screen is a video call which allows to turn off sound, camera, microphone, chat and the button to exit from the conference.
-During entering a conference, the application requests permission to use the microphone and camera. The application is created with help of using ZEGOCLOUD.
+During entering a conference, the application requests permission to use the microphone and camera. The application is created by using ZEGOCLOUD.
 # Features
 - Java language
 - Data Binding
